@@ -23,7 +23,7 @@ export default function App() {
   return (
     <main>
       <GlobalStyle />
-      <Titulo>"Liberte a magia da programação com a lâmpada de Aladim."</Titulo>
+      <Titulo>"Liberte a magia da programação com a lâmpada de Aladdin."</Titulo>
       <img
         src={
           lampada
